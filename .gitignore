@@ -1,0 +1,11 @@
+# folders
+public/
+
+# MacOS crap
+.DS_Store
+
+# R crap
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata

@@ -15,3 +15,6 @@ blogdown::hugo_build()
 
 # push the code to git and hopefully you've setup 
 # an appropriate netlify build step.
+# e.g. git commit -m "an update" & git push origin master
+
+# tada! You're website should now be deployed!

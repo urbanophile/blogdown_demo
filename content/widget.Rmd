@@ -1,0 +1,10 @@
+---
+title: a widget example
+---
+
+
+
+
+```{r, echo=FALSE}
+htmltools::tags$iframe(title = "My embedded document", src = "/Users/matt/projects/blogdown_demo/widgets/selfcontained_scatter.html")
+```
